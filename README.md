@@ -49,6 +49,7 @@ ___
 
 **DNA Barcoding for the Assessment of the Taxonomy and Conservation Status of the Fish Bycatch of the Northern Brazilian Shrimp Trawl Fishery**
 [![DOI](https://img.shields.io/badge/doi-10.3389/fmars.2020.566021-gree)](https://doi.org/10.3389/fmars.2020.566021)
+</br>*Publicado em: 28/09/2020*
 
 Livre tradução (pt-br): *DNA Barcoding para avaliação da taxonomia e do estado de conservação da captura acidental de peixes na pesca de arrasto de camarão no norte do Brasil.*  
 
@@ -56,6 +57,7 @@ Livre tradução (pt-br): *DNA Barcoding para avaliação da taxonomia e do esta
 
 **Does DNA barcoding offer meaningful insights into the diversity of the parrotfish of the genus *Sparisoma* (Scaridae)?**
 [![DOI](https://img.shields.io/badge/doi-10.1111/jai.13932-gree)](https://doi.org/10.1111/jai.13932)
+</br>*Publicado em: 08/06/2019*
 
 Livre tradução (pt-br): *O DNA Barcoding oferece ensaios significativas sobre a diversidade dos peixes-papagaio do gênero Sparisoma (Scaridae)?*  
 
