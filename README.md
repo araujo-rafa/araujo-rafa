@@ -5,9 +5,9 @@
 
 ## Sobre mim:
 
-Sou apaixonado pelo estudo da vida, sendo **doutorando** pelo Programa de Pós-Graduação em Genética e Biologia Molecular da Universidade Federal do Pará (UFPA). **Mestre** em Biologia Ambiental pela UFPA (2023).
+Sou apaixonado pelo estudo da vida, por isso, iniciei minha trajetória cursando e me formando em **Biologia** na Universidade Federal do Pará (UFPA). Hoje sou **Mestre** em Biologia Ambiental pela UFPA (2023) e **doutorando** pelo Programa de Pós-Graduação em Genética e Biologia Molecular (UFPA).
 
-Iniciei minha carreira acadêmica na área da genética, com ênfase na delimitação de espécies de peixe como DNA Barcode. No momento, aprendendo e **aplicando a bioinformática na minha pesquisa**.
+Iniciei minha carreira acadêmica na área da genética, com ênfase na delimitação de espécies de peixe como DNA Barcode. No momento, estou aprendendo e **aplicando a bioinformática na minha pesquisa**.
 ___
 ### 🔎 Aprendendo:
 <img
